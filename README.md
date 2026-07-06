@@ -109,7 +109,7 @@ hadoop jar PMJoin.jar PMJoin CLEANED_MORTALITY_DATA/* JOINED_PM_MORTALITY_DATA
 
 ## Results
 
-![PM2.5 distribution across counties](https://github.com/AirKristo/pm25-pollution-mortality/figures/pm25_distribution.jpg)
+![PM2.5 distribution across counties](assets/pm25_distribution.jpg)
 
 Most counties fell in the 6–9 µg/m³ range, with a sharp drop-off above 10 — matching the top-10 tables below, where even the most polluted counties top out around 10.7.
 
